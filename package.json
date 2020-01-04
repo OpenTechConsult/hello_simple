@@ -1,0 +1,22 @@
+{
+  "name": "hello_simple",
+  "version": "1.0.0",
+  "description": "Simple Hello World Express Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenTechConsult/hello_simple.git"
+  },
+  "author": "Elom Agboka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenTechConsult/hello_simple/issues"
+  },
+  "homepage": "https://github.com/OpenTechConsult/hello_simple#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
